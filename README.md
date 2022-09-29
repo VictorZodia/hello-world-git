@@ -1,2 +1,6 @@
-# HelloGit
-Soy yb readme.
+# Cabecera H1
+## Cabecera H2
+### Cabecera H3
+
+
+Soy un readme. bla bla bla.
